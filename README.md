@@ -1,15 +1,3 @@
-<div align="center">
-
-```
-        ___
-       (o o)      < Hi, I'm Max!  👋
-       ( ‿ )
-      __| |__
-     /  _|_  \
-        / \
-       /   \
-```
-
 # Max Otterstein
 
 ### Data Analyst **_**
@@ -21,19 +9,19 @@
 
 ## 🛠️ Projekte
 
-### 📈 Superstore Sales Pipeline
+### 📈 [Superstore Sales Pipeline](https://github.com/kick-ban-ignore/superstore-pipeline)
 
 ELT-Pipeline von CSV bis Dashboard. Datenimport, -cleaning und -analyse sowie Visualisierung von Verkaufsdaten über eine interaktive Webapp.
 
 ![Python](https://img.shields.io/badge/Python-Python-e2e8f0?style=flat-square&labelColor=e2e8f0&color=111111) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-PostgreSQL-e2e8f0?style=flat-square&labelColor=e2e8f0&color=444444) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-SQLAlchemy-e2e8f0?style=flat-square&labelColor=e2e8f0&color=111111) ![Plotly](https://img.shields.io/badge/Plotly-Plotly-e2e8f0?style=flat-square&labelColor=e2e8f0&color=444444) ![Metabase](https://img.shields.io/badge/Metabase-Metabase-e2e8f0?style=flat-square&labelColor=e2e8f0&color=111111) ![Streamlit](https://img.shields.io/badge/Streamlit-Streamlit-e2e8f0?style=flat-square&labelColor=e2e8f0&color=444444) ![Ngrok](https://img.shields.io/badge/Ngrok-Ngrok-e2e8f0?style=flat-square&labelColor=e2e8f0&color=111111)
 
-### 📖 Berliner Bibliotheken VÖBB
+### 📖 [Berliner Bibliotheken VÖBB](https://github.com/kick-ban-ignore/voebb_ausleihe)
 
 Datenimport, -cleaning und -analyse sowie Visualisierung von Ausleihen und Katalogdaten aus öffentlichen Quellen der Berliner Bibliotheken.
 
 ![Python](https://img.shields.io/badge/Python-Python-e2e8f0?style=flat-square&labelColor=e2e8f0&color=111111) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-PostgreSQL-e2e8f0?style=flat-square&labelColor=e2e8f0&color=444444) ![Streamlit](https://img.shields.io/badge/Streamlit-Streamlit-e2e8f0?style=flat-square&labelColor=e2e8f0&color=111111) ![Metabase](https://img.shields.io/badge/Metabase-Metabase-e2e8f0?style=flat-square&labelColor=e2e8f0&color=444444)
 
-### 📚 Bibothek Büchertracker
+### 📚 [Bibothek Büchertracker](https://github.com/kick-ban-ignore/Bibothek)
 
 Webapp zur Verwaltung von Kinderbüchern. Datenimport, -cleaning, -analyse sowie Visualisierung von Bücherdaten.
 
@@ -50,5 +38,3 @@ Geospatial Data & Mapping Analytics Projekt (in Entwicklung).
 ⭐ **Das hier ist die interaktive Version** — öffne `index.html` im Browser (oder `python3 -m http.server 8000`) für Emoji-Regen, Charisma-Buff & 125-BPM-Atmung.
 
 📄 Vollständiger Quellcode: [index.html](index.html) · © 2026 Max Otterstein
-
-</div>
