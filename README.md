@@ -1,8 +1,6 @@
 # Max Otterstein
 
-### Data Analyst **_**
-
-📍 **Berlin, Deutschland**
+### Data Analyst   📍 **Berlin, Deutschland**
 
 [![GitHub](https://img.shields.io/badge/GitHub-kick--ban--ignore-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kick-ban-ignore)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-maxotterstein-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
@@ -27,9 +25,10 @@ Webapp zur Verwaltung von Kinderbüchern. Datenimport, -cleaning, -analyse sowie
 
 ![Python](https://img.shields.io/badge/Python-Python-e2e8f0?style=flat-square&labelColor=e2e8f0&color=111111) ![Pandas](https://img.shields.io/badge/Pandas-Pandas-e2e8f0?style=flat-square&labelColor=e2e8f0&color=444444) ![Matplotlib](https://img.shields.io/badge/Matplotlib-Matplotlib-e2e8f0?style=flat-square&labelColor=e2e8f0&color=111111) ![Streamlit](https://img.shields.io/badge/Streamlit-Streamlit-e2e8f0?style=flat-square&labelColor=e2e8f0&color=444444) ![SQL](https://img.shields.io/badge/SQL-SQL-e2e8f0?style=flat-square&labelColor=e2e8f0&color=111111) ![SQLite](https://img.shields.io/badge/SQLite-SQLite-e2e8f0?style=flat-square&labelColor=e2e8f0&color=444444)
 
-### 🗺️ [Maps](https://github.com/kick-ban-ignore/kiezrouter)
+### 🗺️ [KiezRouter](https://github.com/kick-ban-ignore/kiezrouter)
 
-Geospatial Data & Mapping Analytics Projekt (in Entwicklung).
+Routenplanung lokal und open-source für Berliner Bezirke, ohne Tracking
+
 
 ![Maps](https://img.shields.io/badge/Maps-Maps-e2e8f0?style=flat-square&labelColor=e2e8f0&color=111111) ![GIS](https://img.shields.io/badge/GIS-GIS-e2e8f0?style=flat-square&labelColor=e2e8f0&color=444444) ![Python](https://img.shields.io/badge/Python-Python-e2e8f0?style=flat-square&labelColor=e2e8f0&color=111111)
 
