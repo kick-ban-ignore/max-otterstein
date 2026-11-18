@@ -34,7 +34,4 @@ Geospatial Data & Mapping Analytics Projekt (in Entwicklung).
 ![Maps](https://img.shields.io/badge/Maps-Maps-e2e8f0?style=flat-square&labelColor=e2e8f0&color=111111) ![GIS](https://img.shields.io/badge/GIS-GIS-e2e8f0?style=flat-square&labelColor=e2e8f0&color=444444) ![Python](https://img.shields.io/badge/Python-Python-e2e8f0?style=flat-square&labelColor=e2e8f0&color=111111)
 
 ---
-
-⭐ **Das hier ist die interaktive Version** — öffne `index.html` im Browser (oder `python3 -m http.server 8000`) für Emoji-Regen, Charisma-Buff & 125-BPM-Atmung.
-
-📄 Vollständiger Quellcode: [index.html](index.html) · © 2026 Max Otterstein
+© 2026 Max Otterstein
