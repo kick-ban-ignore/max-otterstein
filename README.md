@@ -3,7 +3,7 @@
 ### Data Analyst   📍 **Berlin, Deutschland**
 
 [![GitHub](https://img.shields.io/badge/GitHub-kick--ban--ignore-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kick-ban-ignore)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-maxotterstein-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/max-otterstein-ba503b156/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-maxotterstein-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-otterstein-ba503b156/)
 
 ## 🛠️ Projekte
 
